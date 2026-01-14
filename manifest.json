@@ -1,7 +1,7 @@
 {
-  "version": "REPLACE_ME",
-  "clienthash": "REPLACE_ME",
-  "launcherhash": "REPLACE_ME",
-  "clienturl": "https://github.com/OsaligTyrant/ThePixelIsles_Patcher/releases/download/REPLACE_ME/client.dcr",
-  "clientsize": 0
+  "version": "2022-07-02",
+  "clienthash": "305e7fb1bf",
+  "launcherhash": "",
+  "clienturl": "https://osaligtyrant.github.io/ThePixelIsles_Patcher/downloads/client.dcr",
+  "clientsize": 45104101
 }
